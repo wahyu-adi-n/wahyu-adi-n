@@ -1,10 +1,10 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Wahyu Adi Nugroho**.\
+Perkenalkan nama saya **Wahyu Adi Nugroho**.
 
-Saya seorang **Mahasiswa** di Universitas Dian Nuswantoro.\
+Saya seorang **Mahasiswa** di Universitas Dian Nuswantoro.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wahyuadinugroho/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wahyuadinugroho/) ku ya.
 
 <!--
 **wahyu-adi-n/wahyu-adi-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
