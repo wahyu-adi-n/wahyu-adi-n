@@ -14,7 +14,7 @@ I love various things about technology like Artificial Intelligence, Data Scienc
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/wahyu-adi-n">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu-adi-n&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyu-adi-n&layout=compact&langs_count=8&theme=algolia"/>
 </a>
