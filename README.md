@@ -5,7 +5,6 @@ I love various things about technology like Artificial Intelligence, Data Scienc
 - 🔭 I’m currently studying on Dian Nuswantoro University majoring at Informatics
 - 🌱 I’m currently learning about android development, machine learning, deep learning, and data science
 - 💬 Feel free to ask me about artificial intelligence or web development
-- 📫 How to reach me: wahyuadinugrohoasinan@gmail.com
 - 😄 Pronouns: (He/Him)
 
 ### Reach me on
