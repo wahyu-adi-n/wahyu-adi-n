@@ -3,8 +3,8 @@
 I love various things about technology like Artificial Intelligence, Data Science, Machine Learning, etc. Have an understanding in these fields with 1 years of learning experience. Often performs the data mining process by understanding bussiness and data, analyzing data, representing data, preprocessing data, and making predictions using Python, Pandas, Numpy, Matplotlib, Sklearn, Tensorflow, etc.
 
 - 🔭 I’m currently studying on Dian Nuswantoro University majoring at Informatics
-- 🌱 I’m currently learning about android development, machine learning, deep learning, and data science
-- 💬 Feel free to ask me about artificial intelligence or web development
+- 🌱 I’m currently learning about android development and data science
+- 💬 Feel free to ask me about artificial intelligence (machine learning) or web development
 - 😄 Pronouns: (He/Him)
 
 ### Reach me on
