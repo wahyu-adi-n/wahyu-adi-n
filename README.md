@@ -1,4 +1,4 @@
-### Hi There! 👋 I'm Adi.
+### Hi There! 👋 I'm Wahyu Adi Nugroho.
 
 I love various things about technology like Artificial Intelligence, Data Science, Machine Learning, etc. Have an understanding in these fields with 1 years of learning experience.
 
