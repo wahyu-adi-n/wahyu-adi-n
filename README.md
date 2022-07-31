@@ -3,7 +3,7 @@
 I love various things about technology like Artificial Intelligence, Data Science, Machine Learning, etc. Have an understanding in these fields with 1 years of learning experience.
 
 - 🔭 I’m currently studying on Dian Nuswantoro University majoring at Informatics
-- 🌱 I’m currently learning about android development and data science
+- 🌱 I’m currently learning about AI, ML, Computer Vision, Data Science, Android Development
 - 💬 Feel free to ask me about artificial intelligence (machine learning) or web development
 - 😄 Pronouns: (He/Him)
 
