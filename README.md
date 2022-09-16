@@ -9,12 +9,10 @@ I love various things about technology like Artificial Intelligence, Machine Lea
 
 ### Github Statistics
 <div align=center>
-   <p align=left>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu-adi-n&show_icons=true&include_all_commits=true&count_private=true"/>
+   <p align=center>
+      <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu-adi-n&show_icons=true&include_all_commits=true&count_private=true"/>
+      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wahyu-adi-n">
    </p>
-   <p align=right>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyu-adi-n">
-    </p>
 </div>
 <p align=center>
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyu-adi-n&layout=compact&langs_count=10"/> 
