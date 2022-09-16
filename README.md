@@ -8,11 +8,17 @@ I love various things about technology like Artificial Intelligence, Machine Lea
 - 😄 Pronouns: (He/Him)
 
 ### Github Statistics
-<div class=row align=center>
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu-adi-n&show_icons=true&include_all_commits=true&count_private=true"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyu-adi-n">
-   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyu-adi-n&layout=compact&langs_count=10"/> 
+<div align=center>
+   <p align=left>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu-adi-n&show_icons=true&include_all_commits=true&count_private=true"/>
+   </p>
+   <p align=right>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyu-adi-n">
+    </p>
 </div>
+<p align=center>
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyu-adi-n&layout=compact&langs_count=10"/> 
+</p>
 
 
 
