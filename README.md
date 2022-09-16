@@ -11,13 +11,38 @@ I love various things about technology like Artificial Intelligence, Data Scienc
 - [Linkedin](https://www.linkedin.com/in/wahyuadinugroho/)
 - wahyuadinugrohoasinan@gmail.com
 
-### Github Statistic
+### Github Statistics
 <p align="left">
 <a href="https://github.com/wahyu-adi-n">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu-adi-n&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyu-adi-n&layout=compact&langs_count=8&theme=algolia"/>
+  
+ 
 </a>
 </p>
+<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu-adi-n&show_icons=true&include_all_commits=true&count_private=true"/>
+<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyu-adi-n&layout=compact&langs_count=10"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=wahyu-adi-n">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **wahyu-adi-n/wahyu-adi-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
