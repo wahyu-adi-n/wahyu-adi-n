@@ -1,6 +1,6 @@
 ### Hi There! 👋 I'm Wahyu Adi Nugroho.
 
-I love various things about technology like Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, Data Science, etc.
+I love various things about technology like Artificial Intelligence, Machine Learning, Computer Vision, etc.
 
 - 🔭 I'm currently studying on Dian Nuswantoro University majoring at Informatics Engineering
 - 🌱 I'm currently learning about Computer Vision
